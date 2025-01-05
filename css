@@ -1,0 +1,12 @@
+@media (max-width: 767px) {
+  body {
+    font-size: 14px; /* Mengatur ukuran font untuk layar kecil */
+  }
+  #gameCanvas {
+    width: 100%;
+    height: auto; /* Agar canvas mengikuti lebar layar */
+  }
+  .btn-game {
+    font-size: 1rem; /* Ukuran tombol lebih kecil */
+  }
+}
